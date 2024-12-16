@@ -36,11 +36,11 @@ Ensure you have the following installed:
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/amol1202/AMS595-Assignment7.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd AMS595-Assignment7
    ```
 
 ---
